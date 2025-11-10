@@ -1,119 +1,114 @@
 # 👋 Hi, I'm Rahul Bhimani  
 
-🚀 **AI Instructor | Founder of NexGen EduTech | AI Consultant | Full-Stack & ERP Developer**
+🚀 **AI Instructor | Founder of SkillSync.ai | AI Consultant | LLM & Agentic AI Expert | Full-Stack Developer**
 
 ---
 
 ### 🧠 About Me  
 
-I’m an **Artificial Intelligence Instructor and Founder of NexGen EduTech**, passionate about empowering students, educators, and organizations with cutting-edge AI and data-driven technologies.  
-I specialize in **AI education, intelligent automation, ERP systems, and business analytics**, helping schools and companies adopt the next generation of AI-powered solutions.
+I’m an **Artificial Intelligence Instructor, AI Consultant, and Founder of [SkillSync.ai](#)** — an EdTech initiative focused on teaching, building, and deploying **real-world AI systems** that go beyond theory.  
 
-💡 My goal is simple:  
-> To make everyone **Master AI**, not just learn it.
+I help individuals, schools, and organizations master **Artificial Intelligence, Python, LLMs, and Agentic AI Systems** — turning ideas into intelligent automation.  
+
+💡 My mission:  
+> To **bridge education and innovation** through AI — making everyone not just *learn* AI, but truly *think* like it.
 
 ---
 
 ### 🎓 What I Do  
 
-#### 🧑‍🏫 **AI Education & Training (NexGen EduTech)**  
-- Teach **Python, Artificial Intelligence, Machine Learning, and AI Agents** to students and teachers.  
-- Conduct workshops to make **AI accessible and engaging** for schools.  
-- Develop **interactive AI learning modules** combining LLMs, TTS, and animation for immersive learning.
+#### 🧑‍🏫 **AI Education & Skill Development (SkillSync.ai)**  
+- Teach **Python, Machine Learning, Deep Learning, and LLMs** with a focus on **real-world implementation**.  
+- Train **teachers and students** in AI with structured, interactive learning experiences.  
+- Build **AI-powered educational platforms** using LLMs, TTS, and visual learning modules for schools.  
 
-#### 🤖 **AI Research & Development**  
-- Build custom **LLMs** for summarization, key points extraction, and chatbot interactions.  
-- Work with **Mistral-7B**, **PyTorch**, and other open-source models optimized for **CPU-based environments**.  
-- Explore **multimodal AI** — combining text, voice, and visuals to create dynamic educational experiences.
+#### 🤖 **AI Research, Fine-Tuning & Agentic AI Development**  
+- Fine-tune **open-source LLMs** (like Mistral, Llama, Falcon) for summarization, knowledge extraction, and chatbot intelligence.  
+- Develop **Agentic AI systems** — where multiple AI agents collaborate, reason, and act autonomously.  
+- Implement **AI Agents** capable of research, analysis, and dynamic task-solving.  
+- Optimize AI for **CPU-based and low-resource environments** for edge deployment.  
 
-#### 🏭 **AI for Enterprises & ERP Development**  
-- Develop **Flask/Django-based ERP Systems** for manufacturing and trading industries (aluminum, charcoal, and carbon).  
-- Integrate **AI-driven analytics and forecasting** into ERP modules (e.g., inventory prediction using ARIMA).  
-- Create **streamlined dashboards, billing systems, and predictive analytics** for enterprise decision-making.  
-- Currently building **ERP for Bahuchar Enterprise**, focused on inventory, billing, and financial analytics.
+#### 🧩 **AI Consulting & Custom Solutions for Businesses**  
+- Help enterprises integrate **AI-driven analytics**, **automation**, and **LLMs** into their existing ecosystems.  
+- Build intelligent systems for **manufacturing, education, and IT sectors** that simplify operations and decision-making.  
+- Design **AI-first architectures** that combine ERP logic with conversational AI and forecasting models.  
 
 ---
 
-### 🧩 Core Skills  
+### 🧠 Core Expertise  
 
 | Domain | Skills |
 |--------|--------|
-| **Programming & AI** | Python, PyTorch, TensorFlow, NumPy, Pandas, Scikit-Learn, OpenAI API, Mistral |
-| **Web Development** | Flask, Django, Streamlit, HTML, CSS, JavaScript, TypeScript |
-| **Data & Analytics** | Business Analytics, Forecasting, Data Visualization, EDA |
-| **ERP Systems** | Custom ERP Design, Dashboard UI/UX, PDF Invoicing, Payment Tracking |
-| **AI Applications** | Chatbots, LLMs, AI Agents, Voice + Animation-based AI Tutors |
-| **Tools & Deployment** | Google Colab, Raspberry Pi, Hostinger, Git, GitHub, REST APIs |
+| **Artificial Intelligence** | Machine Learning, Deep Learning, Neural Networks, Agentic AI |
+| **Large Language Models (LLMs)** | Fine-tuning, Prompt Engineering, Retrieval-Augmented Generation (RAG), Knowledge Graphs |
+| **AI Development** | PyTorch, TensorFlow, Hugging Face Transformers, LangChain, LlamaIndex |
+| **Web Development** | Flask, Django, Streamlit, TypeScript, HTML, CSS, JS |
+| **Automation & Analytics** | Business Intelligence, Data Analytics, Forecasting, EDA |
+| **Deployment & Tools** | Google Colab, Raspberry Pi, Hostinger, Git, API Integration |
 
 ---
 
 ### 🧑‍💻 Featured Projects  
 
-#### 🔹 **AI-Powered ERP for Manufacturing Industry**
-ERP platform with integrated **AI forecasting**, **invoice analytics**, and **dashboard insights**, built using Flask.  
-Features: Stock management, Billing, Payment Tracking, ARIMA forecasting, PDF invoicing.  
+#### 🔹 **SkillSync.ai – AI-Powered Learning Ecosystem**
+An AI-driven education platform that merges **LLMs, AI Agents, and Voice-Interactive Learning**, built to make AI learning more human-like and intuitive.
 
-#### 🔹 **Educational LLM for CBSE Schools**
-Custom-trained **LLM for question-answering**, summaries, and concept explanations for CBSE subjects.  
-Includes **voice & animation integration** for immersive student learning.
+#### 🔹 **Fine-Tuning and Custom LLM Development**
+Created lightweight, CPU-optimized models for **summarization, question-answering, and insight generation** using Mistral and Llama architectures.
 
-#### 🔹 **AI Chatbot for IT Solution Company**
-LLM-powered chatbot that analyzes client project descriptions and provides **summaries, key points, and solution suggestions**, built using **Mistral-7B**.
+#### 🔹 **Agentic AI Systems**
+Developed autonomous **AI Agent frameworks** that handle end-to-end reasoning, multi-task collaboration, and adaptive learning for enterprises.
 
-#### 🔹 **Stock Market Prediction System**
-Predicts stock closing prices using **LSTM Neural Networks** with data from **Yahoo Finance (yfinance)**.
+#### 🔹 **AI Chatbot for Business Insights**
+Built a smart chatbot that takes business data as input, generates **summaries, insights, and strategic recommendations** using custom LLM pipelines.
 
----
-
-### 🧭 Vision  
-
-> “Education must evolve with technology — and AI is the key.  
-> My mission is to bring AI literacy to every classroom and business, from schools to manufacturing floors.”
+#### 🔹 **Stock Market Prediction Using LSTMs**
+Designed an advanced **LSTM model** that predicts closing prices using technical indicators and 5-minute candle data analysis.
 
 ---
 
 ### 🏢 Current Roles  
 
-- **Founder & Instructor**, NexGen EduTech  
-  - Leading AI education in schools and empowering teachers to teach Python & AI.  
+- **Founder & Instructor**, [SkillSync.ai](#)  
+  - Leading the next generation of AI learning through hands-on projects, personalized AI training, and school partnerships.  
 
 - **AI Consultant**, Manufacturing & IT Companies  
-  - Helping businesses integrate AI, LLMs, and data analytics into ERP and operational systems.  
+  - Helping organizations integrate **AI Agents, LLMs, and data automation** into their workflows.  
+
+---
+
+### 🧭 Vision  
+
+> “AI shouldn’t be a mystery — it should be a skill as common as using a computer.  
+> At SkillSync.ai, we make AI accessible, practical, and powerful for everyone.”
 
 ---
 
 ### 📈 My Work Philosophy  
 
-✅ **Teach AI that creates AI**  
-✅ **Simplify complex technology for real-world use**  
-✅ **Empower people, not replace them**  
-✅ **Build solutions that last**
+✅ Teach **AI that creates AI**  
+✅ Simplify complexity through **clarity and design**  
+✅ Build **scalable, human-centered AI systems**  
+✅ Empower people, not replace them  
 
 ---
 
 ### 🌐 Connect With Me  
 
-💼 **LinkedIn:** [linkedin.com/in/rahulbhimani](https://www.linkedin.com/in/rahul-bhimani-926828284/)  
+💼 **LinkedIn:** [linkedin.com/in/rahulbhimani](https://linkedin.com/in/rahulbhimani)  
 🐙 **GitHub:** [github.com/rahulbhimani0708](https://github.com/rahulbhimani0708)  
-📧 **Email:** rahulbhimani367@gmail.com  
-🌐 **Website:** (Coming Soon)  
+📧 **Email:** rahulbhimaniofficial@gmail.com  
+🌐 **Website:** Coming soon — [SkillSync.ai](#)  
 
 ---
 
 ### 🏆 Motto  
 
-> “We are the masters of AI — and we make you one too.”  
-
----
-
-### 📊 GitHub Stats  
-
-![Rahul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rahulbhimani0708&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rahulbhimani0708&layout=compact&theme=tokyonight)
+> “We are the masters of AI — and we’ll make you one too.”  
 
 ---
 
 ### ⚡ Fun Fact  
-When I’m not coding or teaching AI, I love experimenting with **LLM architectures**, **educational tech innovation**, and **building futuristic AI learning ecosystems**.
+When I’m not building AI systems, I’m teaching how to **think like one** — designing intelligent tools that combine **learning, reasoning, and creativity**.
 
 ---

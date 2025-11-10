@@ -95,7 +95,7 @@ Designed an advanced **LSTM model** that predicts closing prices using technical
 
 ### 🌐 Connect With Me  
 
-💼 **LinkedIn:** [linkedin.com/in/rahulbhimani](www.linkedin.com/in/rahul-bhimani-926828284)  
+💼 **LinkedIn:** [linkedin.com/in/rahulbhimani](https://www.linkedin.com/in/rahul-bhimani-926828284/)  
 🐙 **GitHub:** [github.com/rahulbhimani0708](https://github.com/rahulbhimani0708)  
 📧 **Email:** rahulbhimani367@gmail.com  
 🌐 **Website:** [rahulbhimani0708.github.io](https://rahulbhimani0708.github.io/)  
